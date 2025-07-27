@@ -74,10 +74,9 @@ Discount Efficiency: Furniture receives the highest average discount but not alw
 Regional Trends: Central and West regions lead in profit, while some regions face heavy losses
 
 ## screenshots
-<img width="1798" height="1097" alt="CUSTOMER AND ORDER INSIGHTS" src="https://g<img width="1797" heigh
-<img width="1796" height="1100" alt="SALES PERFOMANCE DASHBOARD" src="https://github.com/user-attachments/assets/3abdbaf1-f22e-43d2-b0ad-2a14332d0d6b" />
-t="1092" alt="SALES ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/2a3a90a9-a374-466d-a751-5084a6d60eb2" />
-ithub.com/user-attachments/assets/f441cf72-ff28-499c-a6ff-f205605c4936" />
-Segment Comparison: Consumer segment dominates sales volume; Corporate has higher average profit per order<img width="1798" height="1097" alt="CUSTOMER AND ORDER INSIGHTS" src="https://github.com/user-attachments/assets/e83cd182-3bbc-4a6d-9da9-9feb0a409878" />
+<img width="1797" height="1092" alt="SALES ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/7cf94bbd-eada-42f5-93cd-33791e23e680" />
+<img width="1796" height="1100" alt="SALES PERFOMANCE DASHBOARD" src="https://github.com/user-attachments/assets/75ca1e65-3827-4aa4-9e54-1cd773f6fba3" />
+<img width="1798" height="1097" alt="CUSTOMER AND ORDER INSIGHTS" src="https://github.com/user-attachments/assets/554e8c56-36a5-4fca-beb4-007d5f60d48a" />
+
 
 
